@@ -16,7 +16,8 @@ Web based editor to create Resume in a customizable template
 -  firstly create 4 folders named css, js, images and fonts and keep index and python files in main folder
 -  
 - keep all files of css in one folder (css)
-- keep all fonts at one folder(fonts)
+- keep all fonts at one folder(fonts) *glyphicons-halflings-regular.eot *glyphicons-halflings-regular *glyphicons-halflings-regular *glyphicons-halflings-regular.woff
+- *glyphicons-halflings-regular.woff2 
 - keep all .js files in single folder(js)
 - keep .png file inside a folder named images
 
